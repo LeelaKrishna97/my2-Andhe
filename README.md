@@ -21,4 +21,7 @@ Andaman Nicobar Islands is famous for its **absolutely stunning beaches**, rich 
 ***
 | Sports | Reason | Hours/week |
 |--------|--------|------------|
-
+|Cricket|IT IS AN EXCITING GAME|3.5|
+|Badminton|IT HAS A VARIETY OF FORMATS|2|
+|Tennis|IT IS A DIFFICULT GAME|2|
+|Swimming|Fitness|1|
