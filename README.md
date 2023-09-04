@@ -28,7 +28,7 @@ Andaman Nicobar Islands is famous for its **absolutely stunning beaches**, rich 
 ***
 Pithy Quotes
 ***
-*“I have only made this letter longer because I have not had the time to make it shorter.”*
-― Blaise Pascal, The Provincial Letters
+>“I have only made this letter longer because I have not had the time to make it shorter.”*
+― *Blaise Pascal*
 “Nowadays you have to be a scientist if you want to be a killer.”
-― Vladimir Nabokov, Lolita
+― *Nabokov*
