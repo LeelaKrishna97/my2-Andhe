@@ -35,7 +35,7 @@ Andaman Nicobar Islands is famous for its **absolutely stunning beaches**, rich 
 ***
 #### CODE Fencing - SVG Hamburger Menu
 ***
-[Code link](https://css-tricks.com/snippets/svg/svg-hamburger-menu/)
+[Stackoverflow link](https://stackoverflow.com/questions/50155878/svg-make-viewbox0-0-100-100-with-percentages)
 ```
 <svg viewBox="0 0 100 80" width="40" height="40">
   <rect width="100" height="20"></rect>
@@ -43,3 +43,4 @@ Andaman Nicobar Islands is famous for its **absolutely stunning beaches**, rich 
   <rect y="60" width="100" height="20"></rect>
 </svg>
 ```
+[Code link](https://css-tricks.com/snippets/svg/svg-hamburger-menu/)
