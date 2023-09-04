@@ -32,3 +32,14 @@ Andaman Nicobar Islands is famous for its **absolutely stunning beaches**, rich 
 
 > *“Nowadays you have to be a scientist if you want to be a killer.”*
 >  ― *Nabokov*
+***
+#### CODE Fencing
+***
+[Code link](https://css-tricks.com/snippets/svg/svg-hamburger-menu/)
+```
+<svg viewBox="0 0 100 80" width="40" height="40">
+  <rect width="100" height="20"></rect>
+  <rect y="30" width="100" height="20"></rect>
+  <rect y="60" width="100" height="20"></rect>
+</svg>
+```
