@@ -14,3 +14,5 @@ Hi there how are you, working on horizontal rule.
 * Biryani
 * Mirchi bajji
 * Putarekulu
+
+[MyStats link](https://github.com/LeelaKrishna97/my2-Andhe/blob/main/MyStats.md)
