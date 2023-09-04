@@ -25,9 +25,8 @@ Andaman Nicobar Islands is famous for its **absolutely stunning beaches**, rich 
 |Badminton|IT HAS A VARIETY OF FORMATS|2|
 |Tennis|IT IS A DIFFICULT GAME|2|
 |Swimming|Fitness|1|
-***
-Pithy Quotes
-***
+
+# Pithy Quotes
 > *“I have only made this letter longer because I have not had the time to make it shorter.”*
 >  ― *Blaise Pascal*
 
